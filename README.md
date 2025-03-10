@@ -26,7 +26,7 @@ git clone https://github.com/0xlegacy52/bountyx-tool.git
 cd bountyx-tool
 chmod +x install.sh
 ./install.sh
-
+```
 ## Usage:
 
 ```bash
