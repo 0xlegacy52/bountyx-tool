@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # BountyX - A comprehensive Bug Bounty hunting tool
-# Author: BountyX Team
+# Author: Abdulrahman Muhammad (0xLegacy)
 # License: MIT
 # Version: 1.0.0
 
@@ -46,7 +46,7 @@ print_banner() {
     echo -e "${NC}"
     echo -e "${GREEN}A comprehensive Bug Bounty hunting tool${NC}"
     echo -e "${YELLOW}Version: 1.0.0${NC}"
-    echo -e "${YELLOW}Author: BountyX Team${NC}"
+    echo -e "${YELLOW}Author: Abdulrahman Muhammad (0xLegacy)${NC}"
     echo
 }
 
