@@ -31,4 +31,5 @@ chmod +x install.sh
 
 ```bash
 ./bountyx.sh --help
+./ai_helper.py --help
 ```
