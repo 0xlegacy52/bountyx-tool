@@ -21,14 +21,8 @@ BountyX is a comprehensive, modular Bash-based tool designed for bug bounty hunt
 
 ## Installation
 
-### Prerequisites
-
-BountyX requires a Linux-based operating system (Kali Linux, Parrot OS, or Ubuntu recommended) with Bash.
-
-### Quick Install (Recommended)
-
 ```bash
-git clone https://github.com/username/bountyx.git
-cd bountyx
+git clone https://github.com/0xlegacy52/bountyx-tool.git
+cd bountyx-tool
 chmod +x install.sh
 ./install.sh
